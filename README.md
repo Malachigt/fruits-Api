@@ -1,6 +1,10 @@
 # fruits-Api
-instalation instructions 
+instalation instructions
+
 clone git repo
+
 run "npm i"
+
 run "npm start"
+
 run "npm test"
